@@ -11,6 +11,7 @@ namespace ASP_MEMBER_WORKSHOP.Controllers
         // GET: Test
         public ActionResult Index()
         {
+            var test = "55";
             return View();
         }
     }
